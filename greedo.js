@@ -35,5 +35,6 @@ async function postTweet(tweetText) {
 
 (async function () {
   const quote = await getRandomQuote();
-  console.log('Fetched Quote:', quote); // Optional: print the fetched qu>  postTweet(quote); // Post the fetched quote as a tweet
+  console.log('Fetched Quote:', quote); // Optional: print the fetched quote  
+  postTweet(quote); // Post the fetched quote as a tweet
 })();
