@@ -10,5 +10,5 @@ Usage:
 * update .env file with X (Twitter) API details
 * run script `node greedo.js`
 
-Proof of Concept:
-* https://x.com/mxhlunkey 
+Proof of Concept: 
+https://x.com/mxhlunkey 
