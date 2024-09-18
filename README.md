@@ -2,7 +2,7 @@
 NodeJS Twitter API v2 Quote Bot using Zenquotes or Quotable API
 
 Operating System:
-Ubuntu 24.04 (Digital Ocean Droplet)
+* Ubuntu 24.04 (Digital Ocean Droplet)
 
 Usage:
 * install NodeJS and NPM `apt install node npm -y`
@@ -11,4 +11,4 @@ Usage:
 * run script `node greedo.js`
 
 Proof of Concept:
-https://x.com/mxhlunkey 
+* https://x.com/mxhlunkey 
