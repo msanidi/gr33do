@@ -9,3 +9,6 @@ Usage:
 * install NPM dependencies `npm install axios dotenv twitter-api-v2`
 * update .env file with X (Twitter) API details
 * run script `node greedo.js`
+
+Proof of Concept:
+https://x.com/mxhlunkey 
